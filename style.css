@@ -1,3 +1,10 @@
 .thinking {
     color: gold
 }
+
+.img {
+    height: 347px;
+    width: 463px;
+    position: relative;
+    float: right;
+}
